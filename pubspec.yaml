@@ -3,7 +3,7 @@ description: >-
   Native Mermaid flowchart rendering for Flutter, no WebView: subgraphs,
   every node shape and link style, multi-line labels, orthogonal edges and
   light/dark themes.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/felipeminello/mermaid_flowchart
 issue_tracker: https://github.com/felipeminello/mermaid_flowchart/issues
 topics:

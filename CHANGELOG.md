@@ -1,3 +1,8 @@
+## 0.1.1
+
+- Fix images and links in the README that were broken in the API
+  documentation: they now use absolute URLs.
+
 ## 0.1.0
 
 - Initial release.

@@ -2,12 +2,12 @@
 
 [![pub package](https://img.shields.io/pub/v/mermaid_flowchart.svg)](https://pub.dev/packages/mermaid_flowchart)
 [![CI](https://github.com/felipeminello/mermaid_flowchart/actions/workflows/ci.yaml/badge.svg)](https://github.com/felipeminello/mermaid_flowchart/actions/workflows/ci.yaml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/felipeminello/mermaid_flowchart/blob/main/LICENSE)
 
 Render [Mermaid](https://mermaid.js.org/syntax/flowchart.html) flowcharts
 natively in Flutter: no WebView, no JavaScript, on every platform.
 
-![An architecture flowchart with two subgraphs](doc/architecture_light.png)
+![An architecture flowchart with two subgraphs](https://raw.githubusercontent.com/felipeminello/mermaid_flowchart/main/doc/architecture_light.png)
 
 ## Features
 
@@ -31,7 +31,7 @@ natively in Flutter: no WebView, no JavaScript, on every platform.
 
 | Dark palette | Top-down |
 | --- | --- |
-| ![The architecture flowchart in the dark palette](doc/architecture_dark.png) | ![A decision flowchart](doc/decision.png) |
+| ![The architecture flowchart in the dark palette](https://raw.githubusercontent.com/felipeminello/mermaid_flowchart/main/doc/architecture_dark.png) | ![A decision flowchart](https://raw.githubusercontent.com/felipeminello/mermaid_flowchart/main/doc/decision.png) |
 
 ## Getting started
 
@@ -185,7 +185,7 @@ A layered (Sugiyama-style) layout in the spirit of Mermaid's dagre:
 
 ## Example app
 
-[`example/`](example/) is a live editor: type Mermaid on one side and see it
+[`example/`](https://github.com/felipeminello/mermaid_flowchart/tree/main/example) is a live editor: type Mermaid on one side and see it
 rendered on the other, with sample diagrams and a dark mode toggle.
 
 ```sh
@@ -203,4 +203,4 @@ screenshots in `doc/` are regenerated with
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/felipeminello/mermaid_flowchart/blob/main/LICENSE)
