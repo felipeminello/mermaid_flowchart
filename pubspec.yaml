@@ -1,0 +1,35 @@
+name: mermaid_flowchart
+description: >-
+  Native Mermaid flowchart rendering for Flutter, no WebView: subgraphs,
+  every node shape and link style, multi-line labels, orthogonal edges and
+  light/dark themes.
+version: 0.1.0
+repository: https://github.com/felipeminello/mermaid_flowchart
+issue_tracker: https://github.com/felipeminello/mermaid_flowchart/issues
+topics:
+  - mermaid
+  - flowchart
+  - diagram
+  - graph
+  - visualization
+
+screenshots:
+  - description: An architecture flowchart with subgraphs, laid out left to right.
+    path: doc/architecture_light.png
+  - description: The same flowchart with the dark palette.
+    path: doc/architecture_dark.png
+  - description: A top-down decision flowchart with labelled edges.
+    path: doc/decision.png
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
